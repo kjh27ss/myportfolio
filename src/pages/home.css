@@ -1,0 +1,15 @@
+.myimg{
+    margin-top: 150px;
+    height:60vh;
+    position:relative;
+    top:-50px;
+}
+
+.btn-port{
+    background-color: var(--primary-color);
+}
+
+.btn-con{
+    border-color: var(--primary-color);
+    color:var(--text-color3);
+}
